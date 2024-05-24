@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rachelpfeifer
 - 📊 I’m pursuing a BS in Data Science at Purdue University (2021 - 2024)
-- 💻 My research interests lie in the applications of machine learning in healthcare. My current research is on applying machine learning models to evaluate demographic fairness in biometric datasets.
+- 💻 My research interests lie in the applications of machine learning in healthcare. My current research is on applying machine learning models to evaluate demographic fairness in healthcare datasets.
 - 📫 How to reach me: pfeifer.rachel.j@gmail.com
